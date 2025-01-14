@@ -23,7 +23,7 @@
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-0b0038?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/anatoqp)
-[![Gmail](https://img.shields.io/badge/Gmail-0b0038?style=for-the-badge&logo=gmail&logoColor=red)](nanatolyantsupovn@yandex.ru)
+[![Telegram](https://img.shields.io/badge/Telegram-0b0038?style=for-the-badge&logo=telegram&logoColor=0088CC)](https://t.me/anatoqp)
+[![Mail](https://img.shields.io/badge/mail-0b0038?style=for-the-badge&logo=mail&logoColor=red)](nanatolyantsupovn@yandex.ru)
 
 </div>
