@@ -16,6 +16,6 @@
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-0b0038?style=for-the-badge&logo=clickhouse&logoColor=white)
 ![Redash](https://img.shields.io/badge/Redash-0b0038?style=for-the-badge&logo=redash&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-0b0038?style=for-the-badge&logo=jupyter&logoColor=white)
-![Redash](https://img.shields.io/badge/Seaborn-0b0038?style=for-the-badge&logo=redash&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-0b0038?style=for-the-badge&logo=seaborn&logoColor=white)
 
 </div>
