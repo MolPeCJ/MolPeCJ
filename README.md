@@ -13,7 +13,7 @@
 ![NumPy](https://img.shields.io/badge/numpy-0b0038?style=for-the-badge&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/matplotlib-0b0038?style=for-the-badge&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/seaborn-0b0038?style=for-the-badge&logoColor=white)
-![Pengouins](https://img.shields.io/badge/pengouins-0b0038?style=for-the-badge&logoColor=white)
+![Pingouin](https://img.shields.io/badge/pingouin-0b0038?style=for-the-badge&logoColor=white)
 ![SciPy](https://img.shields.io/badge/scipy-0b0038?style=for-the-badge&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0b0038?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-0b0038?style=for-the-badge&logo=clickhouse&logoColor=FFCC01)
