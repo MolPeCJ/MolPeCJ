@@ -2,7 +2,7 @@
 
 <!--
 **MolPeCJ/MolPeCJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
