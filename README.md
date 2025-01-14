@@ -1,6 +1,6 @@
 <h1 align="center" >Привет  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> ! </h1>
 
-![Ai and Aiko]([https://i.imgur.com/1ZvVkDc.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmJkdGcyeTd0M3ozZjlsbXdkbjhkeXRrbHIxdjBmdXIzeXBnZXBnbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UU2E4pmlIWjBZt03ne/giphy.gif))
+![Ai and Aiko](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmJkdGcyeTd0M3ozZjlsbXdkbjhkeXRrbHIxdjBmdXIzeXBnZXBnbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UU2E4pmlIWjBZt03ne/giphy.gif)
  
 ## Обо мне 👐
 Учусь на 2-м курсе магистратуры НИУ ВШЭ "Бизнес-аналитика в экономике и менеджменте". Ранее проходил программу профпереподготовки по аналитике данных, курс по профессии "Аналитик данных" от Karpov.Courses, стажировался в Сбер.Технологии и работал в VK на должности младшего продуктового аналитика
