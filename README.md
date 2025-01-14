@@ -24,6 +24,6 @@
 <div align="center">
 
 [![Telegram](https://img.shields.io/badge/Telegram-0b0038?style=for-the-badge&logo=telegram&logoColor=0088CC)](https://t.me/anatoqp)
-[![Mail](https://img.shields.io/badge/mail-0b0038?style=for-the-badge&logo=mail&logoColor=red)](nanatolyantsupovn@yandex.ru)
+[![Gmail](https://img.shields.io/badge/Gmail-0b0038?style=for-the-badge&logo=Gmail&logoColor=EA4335)](nanatolyantsupovn@gmail.com)
 
 </div>
