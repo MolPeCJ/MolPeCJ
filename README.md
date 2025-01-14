@@ -8,12 +8,12 @@
 <div align="center">
 
 ![Python](https://img.shields.io/badge/-Python-0b0038?style=for-the-badge&logo=python&logoColor=3c78a9)
-![Pandas](https://img.shields.io/badge/pandas-0b0038?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-0b0038?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/matplotlib-0b0038?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/seaborn-0b0038?style=for-the-badge&logo=seaborn&logoColor=white)
-![Pengouins](https://img.shields.io/badge/pengouins-0b0038?style=for-the-badge&logo=pengouins&logoColor=white)
-![SciPy](https://img.shields.io/badge/scipy-0b0038?style=for-the-badge&logo=scipy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-0b0038?style=for-the-badge&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-0b0038?style=for-the-badge&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/matplotlib-0b0038?style=for-the-badge&logoColor=white)
+![Seaborn](https://img.shields.io/badge/seaborn-0b0038?style=for-the-badge&logoColor=white)
+![Pengouins](https://img.shields.io/badge/pengouins-0b0038?style=for-the-badge&logoColor=white)
+![SciPy](https://img.shields.io/badge/scipy-0b0038?style=for-the-badge&logoColor=white)
 
 
 ![PySpark](https://img.shields.io/badge/pyspark-8FBC8F?style=for-the-badge&logo=apachespark&logoColor=white)
