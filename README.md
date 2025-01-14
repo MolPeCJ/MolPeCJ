@@ -1,8 +1,5 @@
-<h1 align="center" >Привет  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> ! </h1>
+###  Привет, я Анатолий Анцупов 👋
 
-![example](https://tenor.com/e595QZYs1BS.gif)
- 
-## Обо мне 👐
 Учусь на 2-м курсе магистратуры НИУ ВШЭ "Бизнес-аналитика в экономике и менеджменте". Ранее проходил программу профпереподготовки по аналитике данных, курс по профессии "Аналитик данных" от Karpov.Courses, стажировался в Сбер.Технологии и работал в VK на должности младшего продуктового аналитика
 
 ## Инструментарий 🔨
@@ -20,6 +17,8 @@
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-0b0038?style=for-the-badge&logo=clickhouse&logoColor=FFCC01)
 ![Redash](https://img.shields.io/badge/Redash-0b0038?style=for-the-badge&logo=redash&logoColor=FD5E53)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-0b0038?style=for-the-badge&logo=jupyter&logoColor=F37626)
+
+</div>
 
 ## Контакты 📪
 
