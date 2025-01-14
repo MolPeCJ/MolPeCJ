@@ -14,7 +14,6 @@
 ![Seaborn](https://img.shields.io/badge/seaborn-0b0038?style=for-the-badge&logoColor=white)
 ![Pengouins](https://img.shields.io/badge/pengouins-0b0038?style=for-the-badge&logoColor=white)
 ![SciPy](https://img.shields.io/badge/scipy-0b0038?style=for-the-badge&logoColor=white)
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0b0038?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-0b0038?style=for-the-badge&logo=clickhouse&logoColor=FFCC01)
 ![Redash](https://img.shields.io/badge/Redash-0b0038?style=for-the-badge&logo=redash&logoColor=FD5E53)
